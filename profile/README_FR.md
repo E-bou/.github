@@ -75,3 +75,11 @@ Les jeux actuellement disponibles sont :
 Te permet de configurer l'envoi de l'Almanax sur ton serveur, chaque jour à minuit. (heure de DOFUS)
 
 Je t'invite donc à m'ajouter sur ton serveur pour découvrir tout ce que je te propose ! 
+
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/help_fr.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/welcome.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/twitter_fr.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/news_fr.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/almanax_fr.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/emeraude_fr.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/chaloeil_fr.jpg">

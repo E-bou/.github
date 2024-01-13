@@ -78,3 +78,10 @@ Allows you to configure the delivery of Almanax on your server, every day at mid
 
 So, I invite you to add me to your server to discover everything I have to offer!
 
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/help_en.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/welcome.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/twitter_en.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/news_en.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/almanax_en.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/emeraude_en.jpg">
+<img src="https://raw.githubusercontent.com/E-bou/.github/main/assets/chaloeil_en.jpg">
