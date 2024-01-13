@@ -38,9 +38,7 @@ Je dispose aussi de différentes fonctionnalités te permettant de recevoir auto
 
 Te permet de configurer l'envoi des tweets des comptes Twitter officiels Ankama pour de nombreux jeux dans diverses langues :
 
-- Dofus (FR, EN, ES, PT) 
-
-- DOFUS MJ
+- Dofus (FR, EN, ES, PT) ainsi que le compte des Maîtres du jeu
 
 - Wakfu (FR, EN, ES, PT)
 

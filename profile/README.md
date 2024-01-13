@@ -38,7 +38,7 @@ I also have various features that allow you to automatically receive messages on
 
 Allows you to configure the delivery of tweets from the official Ankama Twitter accounts for many games in various languages:
 
-- Dofus (FR, EN, ES, PT) 
+- Dofus (FR, EN, ES, PT) and GameMaster account
 
 - DOFUS MJ
 
