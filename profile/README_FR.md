@@ -1,7 +1,7 @@
 # E-bou
 
 ### <img src = 'https://raw.githubusercontent.com/E-bou/.github/main/assets/E-bou.png' width="40px"/> **E-bou** is a Discord BOT for the DOFUS 2 version.
-### <img src = 'https://raw.githubusercontent.com/E-bou/.github/main/assets/E-bou.png' width="40px"/> [Lien d'invitation](https://discord.com/application-directory/1093561990036860928) -  <img src = '../assets/discord.png' width="40px"/> [Serveur de support](https://discord.gg/rmSsDC84AS) - <img src = '../assets/twitter.png' width="31px"/> [Twitter](https://twitter.com/EbouBot)
+### <img src = 'https://raw.githubusercontent.com/E-bou/.github/main/assets/E-bou.png' width="40px"/> [Lien d'invitation](https://discord.com/application-directory/1093561990036860928) -  <img src = 'https://raw.githubusercontent.com/E-bou/.github/main/assets/discord.png' width="40px"/> [Serveur de support](https://discord.gg/rmSsDC84AS) - <img src = 'https://raw.githubusercontent.com/E-bou/.github/main/assets/twitter.png' width="31px"/> [Twitter](https://twitter.com/EbouBot)
 ### <img src= 'https://raw.githubusercontent.com/E-bou/.github/main/assets/UK_US_flag.jpg' width="40px"/> [Présentation Anglaise]([./README.md](https://github.com/E-bou/.github/blob/main/profile/README.md))
 
 ## E-bou est l'encyclopédie la plus complète liée au jeu DOFUS sur Discord.<br> Le bot est entièrement disponible en Anglais et en Français, et partiellement en Espagnol, Portugais, Italien et Allemand.
